@@ -16,22 +16,22 @@ I'm a passionate developer specializing in cutting-edge technologies and creativ
 - **Currently Exploring:**  
   - Building my own LLMs and experimenting with generative AI
 
-## 🏋️‍♂️ Featured Project
+## Featured Project
 
 ### [Korform](https://github.com/ndylanl/korform)
 > **Korform** is my project for classifying gym exercises as good or bad form, using computer vision and deep learning.  
 > - 🏆 Highlights: Real-world ML application, fitness tech, model deployment  
 > - 🤖 Tech stack: TensorFlow, Computer Vision, LSTM
 
-## 💡 Hobbies & Interests
+## Hobbies & Interests
 
-- Training and evaluating Large Language Models
+- Currently Training and evaluating Large Language Models Locally
 - Fitness & exercise science
 - Experimenting with new ML frameworks
 
 ## 📫 Let's Connect!
 
-<!-- Add your social links here, e.g. LinkedIn, Twitter, website -->
+(https://www.linkedin.com/in/dylan-lienardi-954037269/)
 
 ---
 
