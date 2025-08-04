@@ -31,7 +31,6 @@ I'm a passionate developer specializing in cutting-edge technologies and creativ
 
 ## 📫 Let's Connect!
 
-LinkedIn → Dylan Lienardi
 https://www.linkedin.com/in/dylan-lienardi-954037269/
 
 ---
